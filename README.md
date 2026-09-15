@@ -34,7 +34,7 @@ Building intelligent software using <b>MERN Stack</b>, <b>Artificial Intelligenc
 
 # 👨‍💻 About Me
 
-- 🎓 **B.Tech Information Technology** @ J.C. Bose University of Science & Technology, YMCA
+- 🎓 **B.Tech Information Technology**
 - 🤖 Passionate about Artificial Intelligence, Machine Learning and Full-Stack Development
 - 💻 Strong foundation in **DSA, OOP, DBMS, Operating Systems, SQL & Computer Networks**
 - 🚀 Building scalable software solutions that combine AI with modern web technologies.
