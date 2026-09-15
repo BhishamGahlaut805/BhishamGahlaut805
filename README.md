@@ -193,16 +193,6 @@ A Node.js web application that searches English words and displays meanings, pro
 
 ---
 
-# 🏆 Achievements
-
-- 🏆 GATE CS & IT 2026 — **AIR 861**
-- 🎓 B.Tech IT — **CGPA 9.0 / 10**
-- 🥇 Haryana Science Talent Search Scholar
-- 🚀 Team Lead — Ideathon 2025
-- 💻 Nexify Hackathon Finalist
-- 🌾 Creator of **AgriConnect**
-- 🎓 Creator of **StudyStream AI**
-
 ---
 
 <p align="center">
