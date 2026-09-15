@@ -35,8 +35,6 @@ Building intelligent software using <b>MERN Stack</b>, <b>Artificial Intelligenc
 # 👨‍💻 About Me
 
 - 🎓 **B.Tech Information Technology** @ J.C. Bose University of Science & Technology, YMCA
-- 🏆 **GATE CS & IT 2026 AIR 861**
-- 📈 **CGPA: 9.0 / 10**
 - 🤖 Passionate about Artificial Intelligence, Machine Learning and Full-Stack Development
 - 💻 Strong foundation in **DSA, OOP, DBMS, Operating Systems, SQL & Computer Networks**
 - 🚀 Building scalable software solutions that combine AI with modern web technologies.
